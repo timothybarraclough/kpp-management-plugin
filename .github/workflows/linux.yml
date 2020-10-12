@@ -1,4 +1,4 @@
-name: Live HPI build
+name: Create HPI build 
 
 on: 
   push:
